@@ -67,7 +67,7 @@ If you’d like to explore the logic or replicate the system:
 </p>
 
 **2. Control Panel**
-<img width="481" height="809" alt="image" src="https://github.com/user-attachments/assets/8a92dee3-58f8-4ef0-b634-85b60bb38d77" />
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/8a92dee3-58f8-4ef0-b634-85b60bb38d77" />
 
 <p>
 <img src="https://github.com/user-attachments/assets/48a25034-5a76-464f-a2f3-99e785253211" width="400">
