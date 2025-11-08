@@ -3,21 +3,22 @@
 ## Overview
 Automation of the **Festo MPS Sorting Station** using **Siemens TIA Portal** and **SIMATIC S7-1500 PLC**.  
 The system classifies workpieces by **material** and **color**, using a sequence of sensor readings and actuator controls coordinated through a modular PLC program.
-
 <p> 
-  <img src="https://github.com/user-attachments/assets/1504566d-5cd9-44fc-9b20-0cf1b52f0b12" width="1000">
+  <img src="https://github.com/user-attachments/assets/e2a44f58-ce60-42b6-bf5e-3f4655d3b803" width="1000">
 </p>
 
 ## Features
 
 - Fully automated sorting of multi-material workpieces.  
 - Dual operation modes: **Manual** and **Automatic**.  
-- **Sequential Function Chart (SFC)**–based task control and **Ladder Logic (LAD)** integration.  
+- Sequential Function Chart (SFC)–based task control and Ladder Logic (LAD) integration.  
 - Fault detection, reset logic, and system status indicators.  
 - Modular and reusable PLC function blocks for efficient debugging and expansion.  
 
 ## System Architecture
-
+<p> 
+  <img src="https://github.com/user-attachments/assets/1504566d-5cd9-44fc-9b20-0cf1b52f0b12" width="400">
+</p>
 - **PLC Platform:** Siemens S7-1500  
 - **Programming Environment:** Siemens TIA Portal (Step 7)  
 - **Programming Languages:**  
