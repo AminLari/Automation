@@ -5,7 +5,7 @@ Automation of the **Festo MPS Sorting Station** using **Siemens TIA Portal** and
 The system classifies workpieces by **material** and **color**, using a sequence of sensor readings and actuator controls coordinated through a modular PLC program.
 
 <p> 
-  <img src="https://github.com/user-attachments/assets/your-image-id-here" width="1000">
+  <img src="https://github.com/user-attachments/assets/1504566d-5cd9-44fc-9b20-0cf1b52f0b12" width="1000">
 </p>
 
 ## Features
