@@ -60,6 +60,12 @@ If you’d like to explore the logic or replicate the system:
 3. Assign I/O according to the MPS station wiring diagram.  
 4. Download the project to the **S7-1500 PLC** and start the station in manual or automatic mode.
 
+## Program Structure
+**1. Main OB1**
+<p> 
+  <img src="https://github.com/user-attachments/assets/9c94bb40-f23c-4fba-90e0-7671db922992" width="1000">
+</p>
+
 ## 📞 Contact
 If you have any questions, feedback, or suggestions regarding this project, feel free to reach out:
 
