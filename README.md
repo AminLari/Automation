@@ -72,7 +72,7 @@ If you’d like to explore the logic or replicate the system:
 
 **4. HMI**
 <p>
-<img src="https://github.com/user-attachments/assets/def34ab6-4919-413f-9337-018646b86d37" width="400">
+To monitor the process in real-time and duplicate the control panel of the station, a HMI screen was designed. 
 </p>
 
 
