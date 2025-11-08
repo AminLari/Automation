@@ -17,8 +17,9 @@ The system classifies workpieces by **material** and **color**, using a sequence
 
 ## System Architecture
 <p> 
-  <img src="https://github.com/user-attachments/assets/1504566d-5cd9-44fc-9b20-0cf1b52f0b12" width="400">
+  <img src="https://github.com/user-attachments/assets/1504566d-5cd9-44fc-9b20-0cf1b52f0b12" width="600">
 </p>
+
 - **PLC Platform:** Siemens S7-1500  
 - **Programming Environment:** Siemens TIA Portal (Step 7)  
 - **Programming Languages:**  
