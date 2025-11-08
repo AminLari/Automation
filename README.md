@@ -63,7 +63,7 @@ If you’d like to explore the logic or replicate the system:
 ## Program Structure
 **1. Main OB1**
 <p> 
-  <img src="https://github.com/user-attachments/assets/9c94bb40-f23c-4fba-90e0-7671db922992" width="1000">
+  <img src="https://github.com/user-attachments/assets/9c94bb40-f23c-4fba-90e0-7671db922992" width="700">
 </p>
 
 ## 📞 Contact
